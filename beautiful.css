@@ -1,0 +1,370 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Montserrat:wght@500&family=Open+Sans&display=swap');
+
+body {
+
+    background-color: #EEBF67;
+
+}
+
+.text {
+
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.text_question1 {
+
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.text_question2 {
+
+    margin-top: 40px;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.text_question3 {
+
+    margin-top: 30px;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.here {
+
+    position: absolute;
+    height: 4100px;
+    width: 1000px;
+    margin-top: 30px;
+    margin-left: 450px;
+    background-color: #FFFFFF;
+
+}
+
+.kak, .sas {
+
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    margin-left: 160px;
+    border-radius: 2%;
+    cursor: pointer;
+
+}
+
+.nar, .pain {
+
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    margin-left: 600px;
+    border-radius: 2%;
+    cursor: pointer;
+
+}
+
+.kak:hover, .nar:hover, .hin:hover, .yam:hover, .sas:hover, .pain:hover, 
+.juzo:hover, .kis:hover, .ita:hover, .sask:hover, .kag:hover, .shi:hover {
+
+    transform: scale(1.11);
+
+}
+
+.hin, .juzo {
+
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border-radius: 2%;
+    cursor: pointer;
+
+}
+
+.yam, .kis {
+
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 600px;
+    border-radius: 2%;
+    cursor: pointer;
+
+}
+
+.ita, .kag {
+
+    height: 250px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 160px;
+    border-radius: 2%;
+    cursor: pointer;
+
+}
+
+.sask, .shi {
+
+    height: 250px;
+    width: 250px;
+    margin-left: 185px;
+    border-radius: 2%;
+    cursor: pointer;
+
+}
+
+.lig {
+
+    position: absolute;
+    margin-left: 260px;
+    cursor: pointer;
+
+}
+
+.sus {
+
+    position: absolute;
+    margin-left: 240px;
+    cursor: pointer;
+
+}
+
+.elements {
+
+    height: 20px;
+    width: 90px;
+    margin-top: 290px;
+    margin-left: 240px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements2 {
+
+    height: 20px;
+    width: 90px;
+    margin-top: -20px;
+    margin-left: 680px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements3 {
+
+    height: 20px;
+    width: 80px;
+    margin-top: 310px;
+    margin-left: 240px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements4 {
+
+    height: 20px;
+    width: 90px;
+    margin-top: -20px;
+    margin-left: 680px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements_q6 {
+
+    height: 20px;
+    width: 140px;
+    margin-top: 20px;
+    margin-left: 210px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements_q6-2 {
+
+    height: 20px;
+    width: 150px;
+    margin-top: -20px;
+    margin-left: 650px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements_q6-3 {
+
+    height: 20px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 200px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements_q6-4 {
+
+    height: 20px;
+    width: 140px;
+    margin-top: -20px;
+    margin-left: 650px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.answer_content {
+
+    height: 160px;
+    width: 600px;
+    margin-top: 320px;
+    margin-left: 180px;
+    border: #000 solid;
+    border-radius: 2%;
+
+}
+
+.answer_content2 {
+
+    height: 160px;
+    width: 600px;
+    margin-top: 340px;
+    margin-left: 180px;
+    border: #000 solid;
+    border-radius: 2%;
+
+}
+
+.answer_content3 {
+
+    height: 160px;
+    width: 600px;
+    margin-top: 30px;
+    margin-left: 180px;
+    border: #000 solid;
+    border-radius: 2%;
+
+}
+
+.elements5 {
+
+    height: 20px;
+    width: 230px;
+    margin-top: 40px;
+    margin-left: 40px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements6 {
+
+    height: 20px;
+    width: 90px;
+    margin-top: -20px;
+    margin-left: 400px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements7 {
+
+    height: 20px;
+    width: 180px;
+    margin-top: 40px;
+    margin-left: 40px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements8 {
+
+    height: 20px;
+    width: 70px;
+    margin-top: -20px;
+    margin-left: 400px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements9 {
+
+    height: 20px;
+    width: 140px;
+    margin-top: -20px;
+    margin-left: 400px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements10 {
+
+    height: 20px;
+    width: 150px;
+    margin-top: -20px;
+    margin-left: 400px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.elements11 {
+
+    height: 20px;
+    width: 80px;
+    margin-top: -20px;
+    margin-left: 400px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.man {
+
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 350px;
+    cursor: pointer;
+
+}
+
+.text_final {
+
+    margin-top: 50px;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.btn_confirm {
+
+    height: 30px;
+    width: 120px;
+    margin-top: 15px;
+    margin-left: 450px;
+    color: #FFF;
+    border-radius: 3%;
+    border: #54B6B2 solid;
+    background-color: #54B6B2;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.btn_confirm:hover {
+
+    color: #000;
+    cursor: pointer;
+    border: #439D9A solid;
+    background-color: #439D9A;
+
+}
